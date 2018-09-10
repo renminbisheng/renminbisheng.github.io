@@ -1,4 +1,3 @@
-*.ali
 *.gem
 .bundle
 .sass-cache
